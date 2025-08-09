@@ -1,0 +1,6 @@
+@CorpSol_HostAddress = http://localhost:5077
+
+GET {{CorpSol_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
